@@ -28,6 +28,8 @@ This is a simple, static HTML and CSS website that serves as a "Dream Car Garage
 7.  McLaren F1
 8.  Aston Martin DB5
 9.  Toyota Supra MK IV
+10. Maserati MC20
+11. Pagani Huayra
 
 ---
 
